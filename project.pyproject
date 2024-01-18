@@ -1,0 +1,13 @@
+{
+    "files": [
+        "main.py",
+        "main.qml",
+        "qml/Colors.qml",
+        "qml/FileSystemView.qml",
+        "qml/Icon.qml",
+        "qml/MyMenu.qml",
+        "qml/MyMenuBar.qml",
+        "qml/Sidebar.qml",
+        "qml/WindowDragHandler.qml"
+    ]
+}
